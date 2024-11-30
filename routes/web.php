@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\PermissionsController;
+use App\Http\Controllers\RolesController;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
 
